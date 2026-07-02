@@ -189,6 +189,9 @@
 							<div class="panel-body">
 								<ul class="list-group">
 								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="lesson7.php">Determining Probabilities Using Tree Diagrams and Tables</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="sampling_techniques.php">Sampling Techniques</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="bias.php">Sampling Bias</a></li>
+								<li class="list-group-item"  style="padding:0px 0px 10px 0px;"><a href="experimental_design.php">Experimental Design</a></li>
 								<!---!<li class="list-group-item" style="padding:0px 0px 0px 0px;"><a href="continuity.php">Continuity</a></li>--->
 								</ul>
 							</div>
@@ -199,7 +202,7 @@
 								</div>
 							<div class="panel-body">
 								<ul class="list-group">
-									<li class="list-group-item" style="padding:0px 0px 10px 0px;"></li>
+									<li class="list-group-item" style="padding:0px 0px 10px 0px;"><a href="StatisticsDataDesignPractice.php">Statistics Practice</a></li>
 								</ul>
 							</div>
 						</div>
