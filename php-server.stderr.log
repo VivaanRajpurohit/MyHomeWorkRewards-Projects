@@ -1,0 +1,152 @@
+[Fri Jul  3 14:02:08 2026] PHP 8.5.8 Development Server (http://127.0.0.1:8000) started
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53171 Accepted
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53171 [200]: GET /lesson1.php
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53171 Closing
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53172 Accepted
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53172 [200]: GET /sampling_techniques.php
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53172 Closing
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53173 Accepted
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53173 [200]: GET /bias.php
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53173 Closing
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53174 Accepted
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53174 [200]: GET /observational_vs_experiments.php
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53174 Closing
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53175 Accepted
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53175 [200]: GET /experimental_design.php
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53175 Closing
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53176 Accepted
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53176 [200]: GET /design_elements.php
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53176 Closing
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53177 Accepted
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53177 [200]: GET /ethics.php
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53177 Closing
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53178 Accepted
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53178 [200]: GET /StatisticsDataDesignPractice.php
+[Fri Jul  3 14:02:27 2026] 127.0.0.1:53178 Closing
+[Fri Jul  3 14:02:41 2026] 127.0.0.1:63701 Accepted
+[Fri Jul  3 14:02:41 2026] 127.0.0.1:63701 [200]: GET /lesson1.php
+[Fri Jul  3 14:02:41 2026] 127.0.0.1:63701 Closing
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55517 Accepted
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55517 [200]: GET /bias.php
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55517 Closing
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55518 Accepted
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55518 [200]: GET /design_elements.php
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55518 Closing
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55519 Accepted
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55519 [200]: GET /ethics.php
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55519 Closing
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55520 Accepted
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55520 [200]: GET /experimental_design.php
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55520 Closing
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55521 Accepted
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55521 [200]: GET /lesson1.php
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55521 Closing
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55522 Accepted
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55522 [200]: GET /Lesson7%26Lesson8WordProblems.php
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55522 Closing
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55523 Accepted
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55523 [200]: GET /lesson7.php
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55523 Closing
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55524 Accepted
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55524 [200]: GET /lesson8.php
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55524 Closing
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55525 Accepted
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55525 [200]: GET /observational_vs_experiments.php
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55525 Closing
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55526 Accepted
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55526 [200]: GET /sampling_techniques.php
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55526 Closing
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55527 Accepted
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55527 [200]: GET /StatisticsDataDesignPractice.php
+[Fri Jul  3 14:02:57 2026] 127.0.0.1:55527 Closing
+[Fri Jul  3 14:04:06 2026] 127.0.0.1:51382 Accepted
+[Fri Jul  3 14:04:06 2026] 127.0.0.1:51382 [200]: GET /StatisticsDataDesignPractice.php
+[Fri Jul  3 14:04:06 2026] 127.0.0.1:51382 Closing
+[Fri Jul  3 14:04:06 2026] 127.0.0.1:57386 Accepted
+[Fri Jul  3 14:04:06 2026] 127.0.0.1:57386 [200]: GET /bootstrap.min.css
+[Fri Jul  3 14:04:06 2026] 127.0.0.1:56490 Accepted
+[Fri Jul  3 14:04:06 2026] 127.0.0.1:65416 Accepted
+[Fri Jul  3 14:04:06 2026] 127.0.0.1:56490 [200]: GET /favicon.png
+[Fri Jul  3 14:04:06 2026] 127.0.0.1:65416 [200]: GET /hide_answer.js
+[Fri Jul  3 14:04:06 2026] 127.0.0.1:57386 Closing
+[Fri Jul  3 14:04:06 2026] 127.0.0.1:56490 Closing
+[Fri Jul  3 14:04:06 2026] 127.0.0.1:65416 Closing
+[Fri Jul  3 14:04:19 2026] 127.0.0.1:61271 Accepted
+[Fri Jul  3 14:04:19 2026] 127.0.0.1:61271 [200]: GET /StatisticsDataDesignPractice.php
+[Fri Jul  3 14:04:19 2026] 127.0.0.1:61271 Closing
+[Fri Jul  3 14:04:19 2026] 127.0.0.1:49320 Accepted
+[Fri Jul  3 14:04:19 2026] 127.0.0.1:49320 [200]: GET /bootstrap.min.css
+[Fri Jul  3 14:04:19 2026] 127.0.0.1:55737 Accepted
+[Fri Jul  3 14:04:19 2026] 127.0.0.1:49320 Closing
+[Fri Jul  3 14:04:19 2026] 127.0.0.1:65037 Accepted
+[Fri Jul  3 14:04:19 2026] 127.0.0.1:55737 [200]: GET /favicon.png
+[Fri Jul  3 14:04:19 2026] 127.0.0.1:65037 [200]: GET /hide_answer.js
+[Fri Jul  3 14:04:19 2026] 127.0.0.1:55737 Closing
+[Fri Jul  3 14:04:19 2026] 127.0.0.1:65037 Closing
+[Fri Jul  3 14:04:31 2026] 127.0.0.1:54544 Accepted
+[Fri Jul  3 14:04:31 2026] 127.0.0.1:54544 [200]: GET /StatisticsDataDesignPractice.php
+[Fri Jul  3 14:04:31 2026] 127.0.0.1:54544 Closing
+[Fri Jul  3 14:04:31 2026] 127.0.0.1:50445 Accepted
+[Fri Jul  3 14:04:31 2026] 127.0.0.1:50445 [200]: GET /bootstrap.min.css
+[Fri Jul  3 14:04:31 2026] 127.0.0.1:57256 Accepted
+[Fri Jul  3 14:04:31 2026] 127.0.0.1:50445 Closing
+[Fri Jul  3 14:04:31 2026] 127.0.0.1:57256 [200]: GET /favicon.png
+[Fri Jul  3 14:04:31 2026] 127.0.0.1:57256 Closing
+[Fri Jul  3 14:04:31 2026] 127.0.0.1:57825 Accepted
+[Fri Jul  3 14:04:31 2026] 127.0.0.1:57825 [200]: GET /hide_answer.js
+[Fri Jul  3 14:04:31 2026] 127.0.0.1:57825 Closing
+[Fri Jul  3 14:04:42 2026] 127.0.0.1:58097 Accepted
+[Fri Jul  3 14:04:42 2026] 127.0.0.1:58097 [404]: GET / - No such file or directory
+[Fri Jul  3 14:04:42 2026] 127.0.0.1:58097 Closing
+[Fri Jul  3 14:04:42 2026] 127.0.0.1:60735 Accepted
+[Fri Jul  3 14:04:42 2026] 127.0.0.1:60735 [404]: GET /favicon.ico - No such file or directory
+[Fri Jul  3 14:04:42 2026] 127.0.0.1:60735 Closing
+[Fri Jul  3 14:05:45 2026] 127.0.0.1:56258 Accepted
+[Fri Jul  3 14:05:45 2026] 127.0.0.1:56258 [200]: GET /observational_vs_experiments.php
+[Fri Jul  3 14:05:45 2026] 127.0.0.1:56258 Closing
+[Fri Jul  3 14:05:45 2026] 127.0.0.1:59087 Accepted
+[Fri Jul  3 14:05:45 2026] 127.0.0.1:55286 Accepted
+[Fri Jul  3 14:05:45 2026] 127.0.0.1:59087 [200]: GET /bootstrap.min.css
+[Fri Jul  3 14:05:45 2026] 127.0.0.1:55286 [200]: GET /favicon.png
+[Fri Jul  3 14:05:45 2026] 127.0.0.1:59238 Accepted
+[Fri Jul  3 14:05:45 2026] 127.0.0.1:59238 [200]: GET /hide_answer.js
+[Fri Jul  3 14:05:45 2026] 127.0.0.1:59087 Closing
+[Fri Jul  3 14:05:45 2026] 127.0.0.1:55286 Closing
+[Fri Jul  3 14:05:45 2026] 127.0.0.1:59238 Closing
+[Fri Jul  3 14:10:26 2026] 127.0.0.1:52975 Accepted
+[Fri Jul  3 14:10:26 2026] 127.0.0.1:52975 [200]: GET /experimental_design.php
+[Fri Jul  3 14:10:26 2026] 127.0.0.1:52975 Closing
+[Fri Jul  3 14:10:26 2026] 127.0.0.1:63147 Accepted
+[Fri Jul  3 14:10:26 2026] 127.0.0.1:63147 [200]: GET /bootstrap.min.css
+[Fri Jul  3 14:10:26 2026] 127.0.0.1:63147 Closing
+[Fri Jul  3 14:10:26 2026] 127.0.0.1:62103 Accepted
+[Fri Jul  3 14:10:26 2026] 127.0.0.1:54820 Accepted
+[Fri Jul  3 14:10:26 2026] 127.0.0.1:62103 [200]: GET /favicon.png
+[Fri Jul  3 14:10:26 2026] 127.0.0.1:54820 [200]: GET /hide_answer.js
+[Fri Jul  3 14:10:26 2026] 127.0.0.1:62103 Closing
+[Fri Jul  3 14:10:26 2026] 127.0.0.1:54820 Closing
+[Fri Jul  3 14:10:35 2026] 127.0.0.1:49816 Accepted
+[Fri Jul  3 14:10:35 2026] 127.0.0.1:49816 [200]: GET /sampling_techniques.php
+[Fri Jul  3 14:10:35 2026] 127.0.0.1:49816 Closing
+[Fri Jul  3 14:10:35 2026] 127.0.0.1:52732 Accepted
+[Fri Jul  3 14:10:35 2026] 127.0.0.1:52732 [200]: GET /bootstrap.min.css
+[Fri Jul  3 14:10:35 2026] 127.0.0.1:52732 Closing
+[Fri Jul  3 14:10:35 2026] 127.0.0.1:52373 Accepted
+[Fri Jul  3 14:10:35 2026] 127.0.0.1:52373 [200]: GET /favicon.png
+[Fri Jul  3 14:10:35 2026] 127.0.0.1:52373 Closing
+[Fri Jul  3 14:10:35 2026] 127.0.0.1:61672 Accepted
+[Fri Jul  3 14:10:35 2026] 127.0.0.1:61672 [200]: GET /hide_answer.js
+[Fri Jul  3 14:10:35 2026] 127.0.0.1:61672 Closing
+[Fri Jul  3 14:11:10 2026] 127.0.0.1:61673 Accepted
+[Fri Jul  3 14:11:10 2026] 127.0.0.1:61673 [200]: GET /StatisticsDataDesignPractice.php
+[Fri Jul  3 14:11:10 2026] 127.0.0.1:61673 Closing
+[Fri Jul  3 14:11:11 2026] 127.0.0.1:61957 Accepted
+[Fri Jul  3 14:11:11 2026] 127.0.0.1:61957 [200]: GET /bootstrap.min.css
+[Fri Jul  3 14:11:11 2026] 127.0.0.1:61957 Closing
+[Fri Jul  3 14:11:11 2026] 127.0.0.1:56921 Accepted
+[Fri Jul  3 14:11:11 2026] 127.0.0.1:53782 Accepted
+[Fri Jul  3 14:11:11 2026] 127.0.0.1:56921 [200]: GET /favicon.png
+[Fri Jul  3 14:11:11 2026] 127.0.0.1:53782 [200]: GET /hide_answer.js
+[Fri Jul  3 14:11:11 2026] 127.0.0.1:56921 Closing
+[Fri Jul  3 14:11:11 2026] 127.0.0.1:53782 Closing
+^C
