@@ -21,6 +21,16 @@
 
 This repository contains mathematics lesson pages developed for MyHomeworkRewards. The lessons pair textbook-style explanations with worked examples, MathJax notation, practice questions, and revealable solutions. The code intentionally stays close to the existing PHP and Bootstrap website so lesson files can be integrated into the platform without rebuilding its interface.
 
+## Project at a Glance
+
+| Measure | Current scope |
+|---|---|
+| Audience | Grade 8 and Grade 12 students |
+| Published lesson pages | 32 across radicals, complex numbers, and statistics |
+| Practice | 6 review sets, including 106 cumulative Grade 12 questions |
+| Interactive elements | Venn diagrams, tree diagrams, sampling tools, probability simulations, hints, and revealable solutions |
+| Delivery | Reusable PHP lesson pages integrated with an existing learning platform |
+
 ## Curriculum
 
 | Grade | Subject | Collection | Included material |
