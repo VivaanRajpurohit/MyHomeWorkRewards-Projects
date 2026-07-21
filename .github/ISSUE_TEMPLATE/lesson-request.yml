@@ -1,0 +1,25 @@
+﻿name: Lesson request
+description: Suggest a new lesson or an expansion to existing material.
+title: "[Lesson]: "
+labels: [content]
+body:
+  - type: input
+    id: course
+    attributes:
+      label: Grade and course
+      placeholder: Grade 12 Data Management
+    validations:
+      required: true
+  - type: input
+    id: topic
+    attributes:
+      label: Topic
+    validations:
+      required: true
+  - type: textarea
+    id: outcomes
+    attributes:
+      label: Learning outcomes
+      description: What should a student understand or be able to do?
+    validations:
+      required: true
