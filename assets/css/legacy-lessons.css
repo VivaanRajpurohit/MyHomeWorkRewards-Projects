@@ -1,0 +1,40 @@
+﻿body {
+    padding-top: 100px;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+}
+
+mjx-container[display="true"] {
+    max-width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+@media (max-width: 767px) {
+    ol.breadcrumb {
+        display: block !important;
+        margin-left: 0 !important;
+        overflow-wrap: anywhere;
+        white-space: normal;
+    }
+
+    ol.breadcrumb li {
+        display: inline !important;
+        margin-right: 4px !important;
+    }
+
+    table {
+        display: block;
+        max-width: 100%;
+        overflow-x: auto;
+    }
+
+    .side-by-side,
+    #seperate-image {
+        display: block !important;
+        width: 100% !important;
+    }
+}

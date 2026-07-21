@@ -1,0 +1,20 @@
+# Local development
+.env
+.env.*
+!.env.example
+vendor/
+
+# Runtime output
+*.log
+php-server.*
+coverage/
+
+# Editors and agent state
+.vscode/
+.idea/
+.agents/
+
+# Operating systems
+.DS_Store
+Thumbs.db
+desktop.ini

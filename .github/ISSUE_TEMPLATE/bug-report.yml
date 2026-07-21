@@ -1,0 +1,32 @@
+﻿name: Lesson or site problem
+description: Report incorrect content, a broken page, or an interaction problem.
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Lesson or page
+      description: Paste the file path or URL where the problem occurs.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Explain the incorrect content or broken behavior.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should happen?
+    validations:
+      required: true
+  - type: dropdown
+    id: device
+    attributes:
+      label: Device
+      options: [Desktop, Tablet, Mobile, Not applicable]
+    validations:
+      required: true
